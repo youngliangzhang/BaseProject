@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff1da</color>
+    <color name="colorPrimaryDark">#fff1da</color>
+    <color name="colorAccent">#eb5946</color>
+
+
+    <color name="success_notification_bar">#323232</color>
+    <color name="error_notification_bar">#EA5555</color>
+    <color name="success_notification_bar_text">#FFFFFF</color>
+    <color name="error_notification_bar_text">#FFFFFF</color>
+
+</resources>
